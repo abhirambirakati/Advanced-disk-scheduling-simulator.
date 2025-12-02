@@ -1,4 +1,4 @@
-Advanced Disk Scheduling Simulator is an interactive Python application designed to simulate and analyze various disk scheduling algorithms used in operating systems. The simulator allows users to input custom disk access sequences and visualize how algorithms like FCFS, SSTF, SCAN, C-SCAN, LOOK, and C-LOOK handle these requests
+Advanced Disk Scheduling Simulator is an interactive Python application designed to simulate and analyze various disk scheduling algorithms used in operating systems. The simulator allows users to input custom disk access sequences and visualize how algorithms like FCFS, SSTF, SCAN, C-SCAN, LOOK, and C-LOOK handle these requests.
 
 With a modern GUI built using Tkinter, users can easily set parameters such as initial head position and maximum track number, and view real-time disk head movement using Matplotlib plots. The simulator also computes key performance metrics like total seek time, average seek time, and system throughput, and logs each run into a CSV file for further analysis.
 
